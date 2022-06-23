@@ -7,10 +7,14 @@ var app = new Vue(
 
     el: '#root',
     data: {
-            title:'Benvenuto Vuejs :)'
+
+        artWork:{
+            "title":"Seer by Miles Johnston.",
+            "image":"https://aetherealengineer.files.wordpress.com/2015/09/seer.jpg"
+        }
+            
     }
 
 }
-
 
 )
